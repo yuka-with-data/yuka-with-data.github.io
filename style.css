@@ -50,6 +50,34 @@ nav ul li a:after{
 nav ul li a:hover:after{
     width: 100%;
 }
+/* Add page nav version */
+nav ul a{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul a{
+    color: #1d1d24;
+    position: relative;
+    padding: 5px 0;
+}
+nav ul a:hover{
+    color: #fd4766;
+}
+nav ul a:after{
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background: #fd4766;
+    transition: .3s;
+    bottom: 0;
+}
+nav ul a:hover:after{
+    width: 100%;
+}
+/* page nav version ends here */
 .btn{
     color: #fff;
     font-size: 16px;
