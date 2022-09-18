@@ -144,6 +144,7 @@ nav ul a:hover:after{
   font-size:25px;
   padding-left:40px;
   float:center;
+  text-align: center;
   word-spacing:20px;
 }
 a.menu:hover {
