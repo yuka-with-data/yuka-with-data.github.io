@@ -134,8 +134,8 @@ nav ul a:hover:after{
 .content li{
     width: 55%;
     color: #757575;
-    margin-top: 25px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 /* footer */
 .footer {
