@@ -113,7 +113,6 @@ nav ul a:hover:after{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
 .content h1{
     color: #1f1f25;
     font-size: 75px;
@@ -126,6 +125,13 @@ nav ul a:hover:after{
     color: #fd4766;
 }
 .content p{
+    width: 55%;
+    color: #757575;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+/* content list class */
+.content li{
     width: 55%;
     color: #757575;
     margin-top: 25px;
