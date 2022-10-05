@@ -1,7 +1,7 @@
 # yuka-with-data.github.io
-**[Under Development] Building my own portfolio website using HTML and CSS**
+**[Under Development] Building My Portfolio Website Hosted Directly from GitHub Repo**
 
-This is going to be my on-going project, and will keep adding new contents and improving the portfolio appearance.
+This is my on-going project, and will keep adding new contents and improving the portfolio appearance.
 
 
 ------------
