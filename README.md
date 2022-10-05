@@ -9,3 +9,11 @@ This is going to be my on-going project, and will keep adding new contents and i
 ### Features I am planning to add:
 1. Media Queries for Responsive Design on Mobile Screens
 2. Dark Mode Screen Toggle
+
+
+------------
+
+### Resources
+Code Cary \
+Fixed Foodter (codepen.io) \
+MDN Web Docs_
