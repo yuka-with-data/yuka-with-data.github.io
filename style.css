@@ -35,7 +35,7 @@ nav ul li a{
     padding: 5px 0;
 }
 nav ul li a:hover{
-    color: #fd4766;
+    color: #6847fd;
 }
 nav ul li a:after{
     content: "";
@@ -43,7 +43,7 @@ nav ul li a:after{
     left: 0;
     width: 0;
     height: 3px;
-    background: #fd4766;
+    background: #6847fd;
     transition: .3s;
     bottom: 0;
 }
