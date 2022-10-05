@@ -89,13 +89,13 @@ nav ul a:hover:after{
     font-weight: 500;
     transition: all .4s ease-in-out;
     background-size: 152% 100%;
-    background: #fd4766;
-    border: 2px solid #fd4766;
+    background: #6847fd;
+    border: 2px solid #6847fd;
 }
 .btn:hover{
     background: transparent;
-    border-color: #fd4766;
-    color: #fd4766;
+    border-color: #6847fd;
+    color: #6847fd;
 }
 .content{
     position: absolute;
