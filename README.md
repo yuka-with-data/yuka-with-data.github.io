@@ -14,6 +14,6 @@ This is going to be my on-going project, and will keep adding new contents and i
 ------------
 
 ### Resources
-Code Cary
-Fixed Foodter (codepen.io)
+Code Cary \
+Fixed Foodter (codepen.io) \
 MDN Web Docs_
